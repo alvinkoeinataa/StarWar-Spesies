@@ -54,6 +54,8 @@ export default function Species() {
           <p>Average Height: {selectedSpecies.average_height}</p>
           <p>Skin Colors: {selectedSpecies.skin_colors}</p>
           <p>Language: {selectedSpecies.language}</p>
+          <p>Eye colors: {selectedSpecies.eye_colors}</p>
+          <p>Hair colors: {selectedSpecies.hair_colors}</p>
         </div>
       ) : (
         <>
