@@ -1,0 +1,81 @@
+.full {
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-image: linear-gradient(to right, violet, blue);
+}
+
+.navbar {
+  width: 100vw;
+  padding: 15px;
+  background-color: black;
+}
+
+.gaya {
+  color: white;
+  padding: 35px;
+}
+
+.gaya1 {
+  background-image: linear-gradient(to right, violet, blue);
+}
+
+.bungkus {
+  border: 1px solid black;
+  width: 250px;
+  height: 150px;
+  margin: 10px;
+  font-size: 25px;
+}
+
+.bungkus2 {
+  padding: 50px;
+  font-size: 25px;
+  color: white;
+}
+
+.bungkus3 {
+  border: 1px solid black;
+  width: 250px;
+  margin: 10px;
+  font-size: 25px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.tengah {
+  text-align: center;
+}
+
+.penuh {
+  width: 100vw;
+  height: 100vh;
+}
+
+.tengah1 {
+  height: 100vh;
+  display: grid;
+  text-align: center;
+  align-content: center;
+  font-size: 40px;
+}
+
+.a {
+  padding: 0;
+  margin: 0;
+}
+
+.tinggi {
+  height: 30px;
+  margin-bottom: 35px;
+}
+
+.besar {
+  font-size: 25px;
+}
+
+.tengah2 {
+  text-align: center;
+  width: 100vw;
+}
